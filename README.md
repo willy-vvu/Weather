@@ -24,6 +24,7 @@ I went above and beyond on this assignment, breaking free of the typical 2D grap
 
 ![](Graphics8.png)
 
+---
 
 ## Text-only Weather
 
