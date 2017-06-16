@@ -4,11 +4,11 @@ Assignment: Create two visualizations of current conditions, one text-free (grap
 
 ## Graphical Weather
 
-![](Graphics1.gif)
-
 I went above and beyond on this assignment, breaking free of the typical 2D graphics of p5.js with some low-level WebGL shader code for some nature-inspired effects. From water ripples to drifting clouds to light rays, each graphical nuance is packed with information: wind direction, cloud cover, even moon phase. Plus, a hourly forecast as animated slices of space.
 
 [View in Browser](https://willy-vvu.github.io/Weather/Graphics/)
+
+![](Graphics1.gif)
 
 ![](Graphics2.png)
 
@@ -28,11 +28,11 @@ I went above and beyond on this assignment, breaking free of the typical 2D grap
 
 ## Text-only Weather
 
-![](Text1.gif)
-
 With subtle use of motion blur and animated "particles", text and tone fill the role of graphic elements in this minimal monochrome visualization.
 
 [View in Browser](https://willy-vvu.github.io/Weather/Text/)
+
+![](Text1.gif)
 
 ![](Text2.png)
 
