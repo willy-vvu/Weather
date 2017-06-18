@@ -4,7 +4,7 @@ Assignment: Create two visualizations of current conditions, one text-free (grap
 
 ## Graphical Weather
 
-I went above and beyond on this assignment, breaking free of the typical 2D graphics of p5.js with some low-level WebGL shader code for some nature-inspired effects. From water ripples to drifting clouds to light rays, each graphical nuance is packed with information: wind direction, cloud cover, even moon phase. Plus, a hourly forecast as animated slices of space.
+For this assignment, I went beyond the 2D graphics of p5.js with some low-level WebGL shader code for nature-inspired effects. From water ripples to drifting clouds to light rays, each graphical nuance is packed with information: wind direction, cloud cover, even moon phase. Plus, an hourly forecast is depicted as animated slices of space.
 
 [View in Browser](https://willy-vvu.github.io/Weather/Graphics/)
 
